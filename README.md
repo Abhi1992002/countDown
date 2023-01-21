@@ -11,7 +11,7 @@ This is a simple countdown built using HTML, CSS, and JavaScript.
 
 ## **Usage**
 
-Open index.html in a web browser and the timer should appear. You can set countdown by giving date and time of a particular day and it will give you the time left betwwn now and that particular time.You can visit this website by clicking 
+Open index.html in a web browser and the timer should appear. You can set countdown by giving date and time of a particular day and it will give you the time left betwwn now and that particular time.You can visit this website by clicking https://count-down-theta.vercel.app/
 
 ## **Customization**
 
