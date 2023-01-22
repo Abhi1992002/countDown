@@ -7,9 +7,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap');
 body{
     font-family: 'Inter', sans-serif;
+    height: 100vh;
    
 }
-
+.hide{
+    display: none !important;
+}
 
 
 h2{
@@ -18,8 +21,7 @@ h2{
 }
 
 .comming-soon{
-    min-height: 100vh;
-   
+    min-height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -39,7 +41,7 @@ h2{
     font-size: 3rem;
 }
 img{
-    height:50vw;
+    height:30vw;
 }
 input{
     padding: 10px;

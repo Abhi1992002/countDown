@@ -3,6 +3,9 @@
     const btn = document.querySelector(".btn");
     btn.addEventListener("click", (e) => {
     //   e.preventDefault();
+    document.querySelector("img").classList.add("hide")
+    document.querySelector(".animation").classList.remove("hide")
+
       const countdown = () =>{
       let inputYear = document.querySelector(".input_year")
       let inputMonth = document.querySelector(".input_month")
